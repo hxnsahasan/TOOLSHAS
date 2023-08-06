@@ -11,8 +11,8 @@ pip install lolcat
 
 rm -rf TOOLSHAS
 
-git clone https://github.com/hxnsahasan/TOOLSHAS/tree/main
+git clone https://github.com/hxnsahasan/TOOLSHAS
 
 cd TOOLSHAS
 
-bash TOOLSHAS.sh
+bash hasan.sh
