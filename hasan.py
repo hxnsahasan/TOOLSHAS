@@ -101,6 +101,12 @@ def menu():
   if contoh =="UP":
     os.system("pkg update")
     os.system("pkg upgrade")
+  if contoh =="S1":
+    print("SEDANG DALAM PERBAIKAN")
+    os.system(python hasan.py)
+  if contoh =="S2":
+    print("SEDANG DALAM PERBAIKAN")
+    os.system(python hasan.py)
   if contoh =="H1":
     print("MENGINSTAL SCRIPT")
     print("                            ")
@@ -118,7 +124,7 @@ def menu():
     os.system("python BrayennnFB.py")
     print("                     ")
     print("SELESAI MENGINSTAL SCRIPT")
-    print("KETIKAN $cd cd /storage/emulated/0/Brayennn3.4/ LALU ENTER")
+    print("KETIKAN $cd /storage/emulated/0/Brayennn3.4/ LALU ENTER")
     print("KETIKAN LAGI $python BrayennnFB.py")
     print("!!!KETIKAN LANGKAH DI ATAS TANPA TANPA TANDA $")
   if contoh =="H2":
@@ -132,9 +138,12 @@ def menu():
     os.system("pip install rich")
     os.system("pip install mechanize")
     os.system("git clone https://github.com/hxnsahasan/mbasic/")
-    os.system("cd mbasic")
+    os.system("cd /storage/emulated/0/")
     os.system("git pull")
     os.system("python mbasic2.py")
+    print("KETIKAN $cd /storage/emulated/0/ LALU ENTER")
+    print("KETIKAN LAGI $python mbasic2.py")
+    print("!!!KETIKAN LANGKAH DI ATAS TANPA TANPA TANDA $")
   if contoh =="H3":
     os.system("pkg update && pkg upgrade")
     os.system("pkg install python")
@@ -149,6 +158,8 @@ def menu():
     os.system("cd mvrk")
     os.system("git pull")
     os.system("python mvrk.py")
+    print("SEDANG DALAM PERBAIKAN")
+    os.system(python hasan.py)
   if contoh =="H4":
     os.system("pkg update && pkg upgrade")
     os.system("pkg install python")
@@ -163,6 +174,8 @@ def menu():
     os.system("cd mbasic")
     os.system("git pull")
     os.system("python hxnsav2.py")
+    print("SEDANG DALAM PERBAIKAN")
+    os.system(python hasan.py)
 menu ()
 
 
