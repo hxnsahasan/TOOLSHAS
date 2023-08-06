@@ -8,7 +8,7 @@ figlet LOGIN TOOLS
 echo "by HXNsAHasan"
 echo "             "
 echo "             "
-echo "DOWNLOAD PASSWORDNYA DI SINI YA BRO: https://ayobelajarbareng.com/lhtgRljV4Zfi"
+echo "CEK PASSWORDNYA DI SINI YA BRO: https://ayobelajarbareng.com/lhtgRljV4Zfi"
 echo "           "
 echo "           "
 
@@ -41,5 +41,5 @@ echo
         sleep
         xdg-open https://youtube.com/@BERO_Hasan
         sleep 4
-        python hasanv2.py
+        python hasan.py
         sleep 5
