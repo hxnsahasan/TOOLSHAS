@@ -8,7 +8,7 @@ figlet LOGIN TOOLS
 echo "by HXNsAHasan"
 echo "             "
 echo "             "
-echo "CEK PASSWORDNYA DI SINI YA BRO: https://ayobelajarbareng.com/lhtgRljV4Zfi"
+echo "DOWNLOAD PASSWORDNYA DI SINI YA BRO: https://ayobelajarbareng.com/lhtgRljV4Zfi"
 echo "           "
 echo "           "
 
