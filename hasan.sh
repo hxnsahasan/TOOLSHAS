@@ -51,3 +51,5 @@ echo
         cd TOOLSHAS
         python hasan.py
         sleep 5
+        echo "ketikan cd /storage/emulated/0/TOOLSHAS/"
+	echo "lalu ketikan lagi python hasan.py'
