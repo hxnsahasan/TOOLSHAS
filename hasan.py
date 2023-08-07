@@ -103,10 +103,8 @@ def menu():
     os.system("pkg upgrade")
   if contoh =="S1":
     print("SEDANG DALAM PERBAIKAN")
-    os.system(python hasan.py)
   if contoh =="S2":
     print("SEDANG DALAM PERBAIKAN")
-    os.system(python hasan.py)
   if contoh =="H1":
     print("MENGINSTAL SCRIPT")
     print("                            ")
@@ -159,7 +157,6 @@ def menu():
     os.system("git pull")
     os.system("python mvrk.py")
     print("SEDANG DALAM PERBAIKAN")
-    os.system(python hasan.py)
   if contoh =="H4":
     os.system("pkg update && pkg upgrade")
     os.system("pkg install python")
@@ -175,7 +172,6 @@ def menu():
     os.system("git pull")
     os.system("python hxnsav2.py")
     print("SEDANG DALAM PERBAIKAN")
-    os.system(python hasan.py)
 menu ()
 
 
